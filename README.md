@@ -1,4 +1,4 @@
-# Event_camera_object_detection_tracking
+# Event_camera_object_detection_tracking - DUC LE 13586413
 
 @inproceedings{mondal2021moving,title={Moving Object Detection for Event-based Vision using Graph Spectral Clustering},author={Mondal, Anindya and Shashant, R and Giraldo, Jhony H and Bouwmans, Thierry and Chowdhury, Ananda S},booktitle={2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},pages={876--884},year={2021},organization={IEEE}}
 
